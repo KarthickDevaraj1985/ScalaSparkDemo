@@ -3,3 +3,4 @@ This is demo of working directory and staging area
 This is third commit
 This is fourth commit
 This is fifth commit
+This demonstrates differences between local & remote repository
