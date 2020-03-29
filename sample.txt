@@ -1,1 +1,2 @@
 This is first commit using sample files
+This is demo of working directory and staging area
